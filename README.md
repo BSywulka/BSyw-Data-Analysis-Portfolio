@@ -2,7 +2,7 @@
 ## About
 Hi, I'm Beth! 
 
-My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
+My CV in [pdf](https://github.com/BSywulka/BSyw-Data-Analysis-Portfolio/blob/e6e77f72a7a50c813a5f20f1fdcf0f91f0409f1d/BSywulka%20resume.pdf)).
 
 
 
