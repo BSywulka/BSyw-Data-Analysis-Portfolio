@@ -9,6 +9,7 @@ My CV in [pdf](https://github.com/BSywulka/BSyw-Data-Analysis-Portfolio/blob/e6e
 ## Table of Contents
 - [About](https://github.com//BSywulka/BSyw-Data-Analysis-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/BSywulka/BSyw-Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+- Excel / Google Sheets
     - [Analyzing Client Spending Data](https://github.com/BSywulka/BSyw-Data-Analysis-Portfolio#analyzing-client-spending-data)
    
 
@@ -19,31 +20,24 @@ My CV in [pdf](https://github.com/BSywulka/BSyw-Data-Analysis-Portfolio/blob/e6e
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Analyzing Client Spending Data
-**Code:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
+**Code:** [`BSyw_Sample_Daily_Spending_Data.xlsx`](https://drive.google.com/open?id=1i2L4pGrTScCKoOFq0nozDbb1DQ9L03Gn&usp=drive_copy)
 
-**Goal:** To determine what factors contribute the most to a movie's success.
+**Goal:** Provide an overview of spending patterns to help the client better understand their financial trends
 
-**Description:** The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
+**Description:** This project examines the client's expenses, breaking them down by category, month, and fixed vs. variable costs. It highlights key spending trends and helps identify areas for potential budget adjustments.
 
-**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+**Skills:** Pivot tables, data visualization, financial analysis.
 
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+**Technology:** Google Sheets, Microsoft Excel.
 
-**Results:** Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
+**Results:** The client's overall spending has shown a steady increase month over month. Healthcare is the largest expense category, and fixed costs account for slightly more than half of variable expenses.
 
 
 ## Education
-University of Colorado, Boulder: 
-Master of Science - MS, Data Science,
-Dec 2022 - Dec 2024
-
-The University of the West Indies, Mona:
-Bachelor's degree, Biochemistry and Molecular Biology,
-2019 - 2022
-
-Pre University School:
-Associate's degree, Science and Mathematics,
-2017 - 2019
+Texas A&M University, College Station: 
+Bachelor of Science - Computer Science
+Minor in Business Analysis
+Aug 1995 - May 1999
 
 ## Certificates
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
@@ -52,5 +46,5 @@ The best way to showcase skills is by doing and sharing your job done but someti
 - [Python for Data Science](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c) (Feb 2023) (Coursera - University of Colorado Boulder)
 
 ## Contacts
-- LinkedIn: [@tiannaparris](https://www.linkedin.com/in/tianna-parris-9b6823176/)
-- Email: parristianna@yahoo.com
+- LinkedIn: [Beth Sywulka](https://www.linkedin.com/in/beth-sywulka-4a9078345/)
+- Email: basywulka@gmail.com
