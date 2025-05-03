@@ -30,12 +30,13 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** The client's overall spending has shown a steady increase month over month. Healthcare is the largest expense category, and fixed costs account for slightly more than half of variable expenses.
 
 ### Cleaning Data: U.S. Presidents Dataset
-**Code:** [`BSyw Data Cleaning Project`](https://docs.google.com/spreadsheets/d/1-nmlRq9wXxXU8C4ikruNM4myD5d9gRJ_/edit?usp=sharing&ouid=113591391992023438063&rtpof=true&sd=true)
+**Code:** [`BSyw Data Cleaning Project.xlsx`](https://docs.google.com/spreadsheets/d/1-nmlRq9wXxXU8C4ikruNM4myD5d9gRJ_/edit?usp=sharing&ouid=113591391992023438063&rtpof=true&sd=true)
 
 **Goal:** Ensure the accuracy and consistency of a dataset on U.S. presidents through data cleaning techniques.
 
 **Description:** This project involves refining a Google Sheet where each row represents a U.S. president. The dataset may contain errors, missing values, or duplicates. The cleaning process includes correcting inaccuracies, standardizing formats, handling gaps, and removing duplicates to improve reliability.
-**Skills:** 
+
+**Skills:** Key skills for ensuring a clean, reliable dataset:
 - Detecting and correcting errors
 - Handling missing values
 - Standardizing data formats
