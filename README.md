@@ -11,7 +11,7 @@ You are welcome to view my resume': [BSywulka resume.pdf](https://github.com/BSy
 - Excel / Google Sheets
     - [Analyzing Client Spending Data](https://github.com/BSywulka/BSyw-Data-Analysis-Portfolio#analyzing-client-spending-data)
     - [Cleaning Data: U.S. Presidents Dataset](https://github.com/BSywulka/BSyw-Data-Analysis-Portfolio#cleaning-data-us-presidents-dataset)
-    -  [Essential Functions and Formulas](https://github.com/BSywulka/BSyw-Data-Analysis-Portfolio#cleaning-data-us-presidents-dataset)
+    -  [Essential Functions and Formulas](https://github.com/BSywulka/BSyw-Data-Analysis-Portfolio#essential-functions-and-formulas)
 - [Education](https://github.com/BSywulka/BSyw-Data-Analysis-Portfolio/blob/main/README.md#education)  
 - [Contact](https://github.com/BSywulka/BSyw-Data-Analysis-Portfolio/blob/main/README.md#contacts)
 ## Portfolio Projects
