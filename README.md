@@ -1,8 +1,8 @@
  # Beth Sywulka - Data Analyst Portfolio
 ## About
-As an Information Management Specialist with a strong background in project management, teamwork, and technical skills, I'm expanding my expertise into Data Analytics. This GitHub portfolio tracks my learning journey and projects as I build proficiency in data analysis tools and techniques. I'm especially excited about using data to support informed decision-making, and I look forward to connecting with and learning from the data science community on GitHub.
+As an Information Management Specialist with a strong foundation in project management, teamwork, and technical skills, I'm deepening my knowledge in Data Analytics. This GitHub portfolio showcases my learning journey and projects as I develop proficiency in data analysis tools and techniques. I'm especially excited about leveraging data for informed decision-making and look forward to engaging with the data analytics community on GitHub.
 
-You are welcome to view my resume': [BSywulka resume.pdf](https://github.com/BSywulka/BSyw-Data-Analysis-Portfolio/blob/e6e77f72a7a50c813a5f20f1fdcf0f91f0409f1d/BSywulka%20resume.pdf)).
+I invite you to view my resume': [BSywulka resume.pdf](https://github.com/BSywulka/BSyw-Data-Analysis-Portfolio/blob/e6e77f72a7a50c813a5f20f1fdcf0f91f0409f1d/BSywulka%20resume.pdf)).
 
 
 ## Table of Contents
