@@ -18,7 +18,7 @@ I invite you to view my resume': [BSywulka resume.pdf](https://github.com/BSywul
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Analyzing Client Spending Data
-**Code:** [`BSyw_Sample_Daily_Spending_Data.xlsx`](https://drive.google.com/open?id=1i2L4pGrTScCKoOFq0nozDbb1DQ9L03Gn&usp=drive_copy)
+**Code:** [`BSyw_Sample_Daily_Spending_Data.xlsx`](https://docs.google.com/spreadsheets/d/1i2L4pGrTScCKoOFq0nozDbb1DQ9L03Gn/edit?usp=sharing&ouid=113591391992023438063&rtpof=true&sd=true)
 
 **Goal:** Provide an overview of spending patterns to help the client better understand their financial trends.
 
