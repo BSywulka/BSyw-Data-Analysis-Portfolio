@@ -10,7 +10,8 @@ You are welcome to view my resume': [BSywulka resume.pdf](https://github.com/BSy
 - [Portfolio Projects](https://github.com/BSywulka/BSyw-Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
 - Excel / Google Sheets
     - [Analyzing Client Spending Data](https://github.com/BSywulka/BSyw-Data-Analysis-Portfolio#analyzing-client-spending-data)
-    - [Cleaning Data: U.S. Presidents Dataset](https://github.com/BSywulka/BSyw-Data-Analysis-Portfolio#cleaning-data-us-presidents-dataset)   
+    - [Cleaning Data: U.S. Presidents Dataset](https://github.com/BSywulka/BSyw-Data-Analysis-Portfolio#cleaning-data-us-presidents-dataset)
+    -  [Essential Functions and Formulas](https://github.com/BSywulka/BSyw-Data-Analysis-Portfolio#cleaning-data-us-presidents-dataset)
 - [Education](https://github.com/BSywulka/BSyw-Data-Analysis-Portfolio/blob/main/README.md#education)  
 - [Contact](https://github.com/BSywulka/BSyw-Data-Analysis-Portfolio/blob/main/README.md#contacts)
 ## Portfolio Projects
@@ -46,6 +47,24 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Google Sheets, Microsoft Excel.
 
 **Results:** A well-structured, error-free dataset ready for meaningful analysis of historical patterns and leadership traits.
+
+### Essential Functions and Formulas
+**Code:** [`BSyw Excel Functions.xlsx`](https://docs.google.com/spreadsheets/d/1jVspRNA8kDI2Q996mr4BzMJ5vN3UAMMZ/edit?usp=sharing&ouid=113591391992023438063&rtpof=true&sd=true)
+
+**Goal:** Learn key data analysis and manipulation functions using Google Sheets.
+
+**Description:** This project is a structured Google Sheet showcasing essential Excel and Google Sheets functions for data manipulation and analysis. It includes examples of XLOOKUP, INDEX/MATCH, ARRAYFORMULA, SUMIFS, COUNT, and IF statements, demonstrating how these functions streamline calculations and automate repetitive tasks.
+
+**Skills:** Key data analytics functions and spreadsheet optimization:
+- Data Manipulation: Using lookup functions, conditional aggregation, and logical expressions to refine datasets.
+- Advanced Formulas: Leveraging XLOOKUP, INDEX/MATCH, SUMIFS, ARRAYFORMULA, and more for dynamic calculations.
+- Problem-Solving: Applying analytical thinking to structure formulas that automate complex tasks.
+- Spreadsheet Optimization: Utilizing efficient functions to enhance performance and usability within Google Sheets.
+
+**Technology:** Google Sheets, Microsoft Excel.
+
+**Results:** Improved efficiency in handling data and showcased proficiency in essential analytics functions.
+
 
 ## Education
 Texas A&M University, College Station <br>
