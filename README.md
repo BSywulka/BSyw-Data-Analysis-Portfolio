@@ -56,15 +56,14 @@ In this section I will list data analytics projects briefly describing the techn
 **Description:** This project is a structured Google Sheet showcasing essential Excel and Google Sheets functions for data manipulation and analysis. It includes examples of XLOOKUP, INDEX/MATCH, ARRAYFORMULA, SUMIFS, COUNT, and IF statements, demonstrating how these functions streamline calculations and automate repetitive tasks.
 
 **Skills:** Key data analytics functions and spreadsheet optimization:
-- Data Manipulation: Using lookup functions, conditional aggregation, and logical expressions to refine datasets.
-- Advanced Formulas: Leveraging XLOOKUP, INDEX/MATCH, SUMIFS, ARRAYFORMULA, and more for dynamic calculations.
-- Problem-Solving: Applying analytical thinking to structure formulas that automate complex tasks.
-- Spreadsheet Optimization: Utilizing efficient functions to enhance performance and usability within Google Sheets.
+- Data Manipulation: Refining datasets using lookup functions, conditional aggregation, and logical expressions.
+- Advanced Formulas: Creating dynamic calculations for efficient data analysis.
+- Problem-Solving: Structuring formulas to automate complex tasks.
+- Spreadsheet Optimization: Enhancing performance and usability in Google Sheets.
 
 **Technology:** Google Sheets, Microsoft Excel.
 
 **Results:** Improved efficiency in handling data and showcased proficiency in essential analytics functions.
-
 
 ## Education
 Texas A&M University, College Station <br>
@@ -72,6 +71,6 @@ Bachelor of Science - Computer Science <br>
 Minor in Business Analysis <br>
 Aug 1995 - May 1999 <br>
 
-## Contacts
+## Contact
 - LinkedIn: [Beth Sywulka](https://www.linkedin.com/in/beth-sywulka-4a9078345/)
 - Email: basywulka@gmail.com
