@@ -11,7 +11,8 @@ I invite you to view my resume': [BSywulka resume.pdf](https://github.com/BSywul
 - Excel / Google Sheets
     - [Analyzing Client Spending Data](https://github.com/BSywulka/BSyw-Data-Analysis-Portfolio#analyzing-client-spending-data)
     - [Cleaning Data: U.S. Presidents Dataset](https://github.com/BSywulka/BSyw-Data-Analysis-Portfolio#cleaning-data-us-presidents-dataset)
-    -  [Essential Functions and Formulas](https://github.com/BSywulka/BSyw-Data-Analysis-Portfolio#essential-functions-and-formulas)
+    - [Essential Functions and Formulas](https://github.com/BSywulka/BSyw-Data-Analysis-Portfolio#essential-functions-and-formulas)
+    - [Bike Sales Dashboard](https://github.com/BSywulka/BSyw-Data-Analysis-Portfolio#bike-sales-dashboard)
 - [Education](https://github.com/BSywulka/BSyw-Data-Analysis-Portfolio/blob/main/README.md#education)  
 - [Contact](https://github.com/BSywulka/BSyw-Data-Analysis-Portfolio/blob/main/README.md#contacts)
 ## Portfolio Projects
@@ -64,6 +65,27 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Google Sheets, Microsoft Excel.
 
 **Results:** Improved efficiency in handling data and showcased proficiency in essential analytics functions.
+
+### Bike Sales Dashboard
+**Code:** [`BSyw Bike Buyers.xlsx`](https://docs.google.com/spreadsheets/d/1w-oiyYH7XUJD8ln9hTpz0Y6vcLc0APPR/edit?usp=sharing&ouid=118302040670753691261&rtpof=true&sd=true)
+
+**Goal:**  Analyze customer demographics and purchasing behavior to determine key factors influencing bike sales, helping to shape marketing strategies and improve sales performance.
+
+**Description:** The "Bike Sales Dashboard" project involved creating an interactive, user-friendly dashboard to visualize key metrics, including:
+- Purchase patterns across age brackets and commute distances
+- The relationship between gender and average income for bike purchases
+The dashboard was designed for clear and efficient data interpretation, allowing stakeholders to quickly recognize trends and make informed decisions.
+
+**Skills:**  This project demonstrated expertise in:
+- Data Analysis – Identifying meaningful patterns in sales data
+- Data Visualization – Creating clear, effective charts and graphs
+- Dashboard Design – Developing an interactive platform for data presentation
+- Data Organization – Structuring information logically
+- Attention to Detail – Ensuring accuracy and clarity in data representation
+
+**Technology:** Google Sheets, Microsoft Excel.
+
+**Results:** The dashboard reveals key sales patterns by age, commute distance, and income, supporting targeted marketing and product optimization.
 
 ## Education
 Texas A&M University, College Station <br>
