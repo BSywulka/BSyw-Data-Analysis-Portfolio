@@ -76,7 +76,7 @@ In this section I will list data analytics projects briefly describing the techn
 - The relationship between gender and average income for bike purchases
 The dashboard was designed for clear and efficient data interpretation, allowing stakeholders to quickly recognize trends and make informed decisions.
 
-**Skills:**  This project demonstrated expertise in:
+**Skills:**  This project demonstrates expertise in:
 - Data Analysis – Identifying meaningful patterns in sales data
 - Data Visualization – Creating clear, effective charts and graphs
 - Dashboard Design – Developing an interactive platform for data presentation
