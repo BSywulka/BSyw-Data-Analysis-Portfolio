@@ -9,7 +9,7 @@ I invite you to view my resume': [BSywulka resume.pdf](https://github.com/BSywul
 - [About](https://github.com//BSywulka/BSyw-Data-Analysis-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/BSywulka/BSyw-Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
 - Excel / Google Sheets
-    - [Analyzing Client Spending Data](https://github.com/BSywulka/BSyw-Data-Analysis-Portfolio#analyzing-client-spending-data)
+    - [Digital Pathways Dashboard](https://github.com/BSywulka/BSyw-Data-Analysis-Portfolio#analyzing-client-spending-data)
     - [Cleaning Data: U.S. Presidents Dataset](https://github.com/BSywulka/BSyw-Data-Analysis-Portfolio#cleaning-data-us-presidents-dataset)
     - [Essential Functions and Formulas](https://github.com/BSywulka/BSyw-Data-Analysis-Portfolio#essential-functions-and-formulas)
     - [Bike Sales Dashboard](https://github.com/BSywulka/BSyw-Data-Analysis-Portfolio#bike-sales-dashboard)
@@ -18,8 +18,8 @@ I invite you to view my resume': [BSywulka resume.pdf](https://github.com/BSywul
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Analyzing Client Spending Data
-**Code:** [`BSyw_Sample_Daily_Spending_Data.xlsx`](https://docs.google.com/spreadsheets/d/1i2L4pGrTScCKoOFq0nozDbb1DQ9L03Gn/edit?usp=sharing&ouid=113591391992023438063&rtpof=true&sd=true)
+### Digital Pathways Dashboard
+**Code:** [`BSyw Digital Pathways Dashboard.xlsx`](https://docs.google.com/spreadsheets/d/10QZ414hwLU2CwHyFPuA3L2pNiNp5PnLozUgTqkMTYE4/edit?usp=sharing)
 
 **Goal:** Provide an overview of spending patterns to help the client better understand their financial trends.
 
