@@ -9,7 +9,7 @@ I invite you to view my resume': [BSywulka resume.pdf](https://github.com/BSywul
 - [About](https://github.com//BSywulka/BSyw-Data-Analysis-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/BSywulka/BSyw-Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
 - Excel / Google Sheets
-    - [Digital Pathways Dashboard](https://github.com/BSywulka/BSyw-Data-Analysis-Portfolio#analyzing-client-spending-data)
+    - [Digital Pathways Dashboard](https://github.com/BSywulka/BSyw-Data-Analysis-Portfolio#Digital-Pathways-Dashboard)
     - [Cleaning Data: U.S. Presidents Dataset](https://github.com/BSywulka/BSyw-Data-Analysis-Portfolio#cleaning-data-us-presidents-dataset)
     - [Essential Functions and Formulas](https://github.com/BSywulka/BSyw-Data-Analysis-Portfolio#essential-functions-and-formulas)
     - [Bike Sales Dashboard](https://github.com/BSywulka/BSyw-Data-Analysis-Portfolio#bike-sales-dashboard)
