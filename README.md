@@ -21,15 +21,15 @@ In this section I will list data analytics projects briefly describing the techn
 ### Digital Pathways Dashboard
 **Code:** [`BSyw Digital Pathways Dashboard.xlsx`](https://docs.google.com/spreadsheets/d/10QZ414hwLU2CwHyFPuA3L2pNiNp5PnLozUgTqkMTYE4/edit?usp=sharing)
 
-**Goal:** Provide an overview of spending patterns to help the client better understand their financial trends.
+**Goal:** Illustrating the demographic landscape of women entering tech through a training program for a fictitious organization
 
-**Description:** This project examines the client's expenses, breaking them down by category, month, and fixed vs. variable costs. It highlights key spending trends and helps identify areas for potential budget adjustments.
+**Description:** This dashboard visualizes key demographic metrics of the training center's participants.
 
-**Skills:** Pivot tables, data visualization, financial analysis.
+**Skills:** Pivot tables, Functions, Charts, Formatting.
 
 **Technology:** Google Sheets, Microsoft Excel.
 
-**Results:** The client's overall spending has shown a steady increase month over month. Healthcare is the largest expense category, and fixed costs account for slightly more than half of variable expenses.
+**Results:** This analysis demonstrates the significant impact of Digital Pathways in supporting underserved women entering a technical field. Notably, it reveals that nearly one in five participants require access to laptops.
 
 ### Cleaning Data: U.S. Presidents Dataset
 **Code:** [`BSyw Data Cleaning Project.xlsx`](https://docs.google.com/spreadsheets/d/1-nmlRq9wXxXU8C4ikruNM4myD5d9gRJ_/edit?usp=sharing&ouid=113591391992023438063&rtpof=true&sd=true)
