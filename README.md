@@ -21,7 +21,7 @@ In this section I will list data analytics projects briefly describing the techn
 ### Digital Pathways Dashboard
 **Code:** [`BSyw Digital Pathways Dashboard.xlsx`](https://docs.google.com/spreadsheets/d/10QZ414hwLU2CwHyFPuA3L2pNiNp5PnLozUgTqkMTYE4/edit?usp=sharing)
 
-**Goal:** Illustrating the demographic landscape of women entering tech through a training program for a fictitious organization
+**Goal:** Illustrate the demographic landscape of women entering tech through a training program for a fictitious organization.
 
 **Description:** This dashboard visualizes key demographic metrics of the training center's participants.
 
